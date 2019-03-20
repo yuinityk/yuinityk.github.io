@@ -30,7 +30,7 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 
 1.  **Yuki Kubo**, Tomohiro Nakatani, Marc Delcroix, Keisuke Kinoshita and Shoko Araki,  
     **“Mask-based MVDR beamformer for noisy multisource environments: introduction of time-varying spatial covariance model,"**  
-    in Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, May 2019. (to appear)  
+    _Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019)_, Brighton, U.K., May 2019. (accepted)  
 
 ## 国内会議
 
