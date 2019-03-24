@@ -39,7 +39,7 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 
 1. **久保優騎**, 高宗典玄, 北村大地, 猿渡洋,  
     **“ブラインド音源分離における多変量複素Student's _t_ 分布に基づくランク制約付き空間共分散モデルの推定,"**  
-    _IEICE Technical Report_, EA2018-128, vol. 118, no. 495, pp.173--178, Nagasaki, March 2019.  
+    _IEICE Technical Report_, EA2018-128, vol. 118, no. 496, pp.173--178, Nagasaki, March 2019.  
     \[[Slide](https://speakerdeck.com/yuinityk/buraindoyin-yuan-fen-li-niokeruduo-bian-liang-fu-su-students-t-fen-bu-niji-dukurankuzhi-yue-fu-kikong-jian-gong-fen-san-moderufalsetui-ding)\]
 
 2. **久保優騎**, 高宗典玄, 北村大地, 猿渡洋,  
@@ -49,7 +49,7 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 
 3. **久保優騎**, 高宗典玄, 北村大地, 猿渡洋,  
     **“独立低ランク行列分析を用いたフルランク空間共分散モデルに基づくブラインド音源分離,"**  
-    _日本音響学会 2018年秋季研究発表会講演論文集_, 3-1-9, pp.211--214, Oita, September 2019.
+    _日本音響学会 2018年秋季研究発表会講演論文集_, 3-1-9, pp.211--214, Oita, September 2018.
 
 #   Academic Society Membership
 
