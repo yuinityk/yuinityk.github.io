@@ -31,9 +31,13 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 
 ## International Conference Papers
 
-1.  **Yuki Kubo**, Tomohiro Nakatani, Marc Delcroix, Keisuke Kinoshita and Shoko Araki,  
+1.  **Yuki Kubo**, Norihiro Takamune, Daichi Kitamura, and Hiroshi Saruwatari,  
+    **“Efficient full-rank spatial covariance estimation using independent low-rank matrix analysis for blind source separation,"**  
+    _Proceedings of European Signal Processing Conferecne (EUSIPCO 2019)_, pp.?--?, A Coruña, Spain, September 2019 (to appear).
+
+2.  **Yuki Kubo**, Tomohiro Nakatani, Marc Delcroix, Keisuke Kinoshita and Shoko Araki,  
     **“Mask-based MVDR beamformer for noisy multisource environments: introduction of time-varying spatial covariance model,"**  
-    _Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019)_, pp.6855--6859, Brighton, U.K., May 2019. (accepted)  
+    _Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019)_, pp.6855--6859, Brighton, U.K., May 2019.
 
 ## Domestic Conference Papers
 
@@ -45,6 +49,7 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 2. **久保優騎**, 高宗典玄, 北村大地, 猿渡洋,  
     **“乗算型更新式に基づくランク制約付き空間共分散モデルの推定,"**  
     _日本音響学会 2019年春季研究発表会講演論文集_, 2-6-1, pp.245--248, Tokyo, March 2019.  
+    \[**Best Student Presentation Award**].  
     \[[Slide](https://speakerdeck.com/yuinityk/cheng-suan-xing-geng-xin-shi-niji-dukurankuzhi-yue-fu-kikong-jian-gong-fen-san-moderufalsetui-ding)\]
 
 3. **久保優騎**, 高宗典玄, 北村大地, 猿渡洋,  
