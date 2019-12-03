@@ -30,11 +30,11 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 
 1.  **Yuki Kubo**, Norihiro Takamune, Daichi Kitamura, and Hiroshi Saruwatari,  
     **“Acceleration of rank-constrained spatial covariance matrix estimation for blind speech extraction,"**  
-    _Proceedings of Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2019)_, pp.?--?, Lanzhou, China, November 2019 (accepted).
+    _Proceedings of Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2019)_, pp.332--338, Lanzhou, China, November 2019.
 
 2.  Masakazu Une, **Yuki Kubo**, Norihiro Takamune, Daichi Kitamura, Hiroshi Saruwatari, and Shoji Makino,  
     **“Evaluation of multichannel hearing aid system using rank-constrained spatial covariance matrix estimation,"**  
-    _Proceedings of Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2019)_, pp.?--?, Lanzhou, China, November 2019 (accepted).
+    _Proceedings of Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2019)_, pp.1874--1879, Lanzhou, China, November 2019.
 
 3.  **Yuki Kubo**, Norihiro Takamune, Daichi Kitamura, and Hiroshi Saruwatari,  
     **“Efficient full-rank spatial covariance estimation using independent low-rank matrix analysis for blind source separation,"**  
@@ -53,7 +53,7 @@ description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
 
 2. 加茂佳吾, **久保優騎**, 高宗典玄, 北村大地, 猿渡洋, 高橋祐, 近藤多伸,  
     **“多変量複素Student's _t_ 分布に基づくFastMNMFを用いたブラインド音源分離,"**  
-    _IEICE Technical Report_, EA2019-???, vol. ???, no. ???, pp.???--???, Tokyo, October 2019.  
+    _IEICE Technical Report_, EA2019-40, vol. 119, no. 253, pp.23--29, Tokyo, October 2019.  
 
 3. **久保優騎**, 高宗典玄, 北村大地, 猿渡洋,  
     **“ランク制約付き空間共分散モデル推定法の逆行列展開による高速化,"**  
