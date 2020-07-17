@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yuki Kubo
-description: Email&#58 yuki_kubo [a(]t) ipc.i.u-tokyo.ac.jp
+description: Email&#58 yuuki.initial.yk [a(]t) gmail.com
 ---
 
 \[[日本語](./index.html)/English\]
